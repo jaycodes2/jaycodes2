@@ -1,136 +1,115 @@
 <div align="center">
 
 <h1>Hey, I'm Jayanthan 👋</h1>
-
-<p>Backend engineer in my final year at DSATM Bangalore 🎓<br/>
-Building with Node.js, TypeScript, and Python — from conversational platforms to AI pipelines ⚙️🤖<br/>
-Currently looking for my first role 🚀</p>
-
-<br/>
-
-```python
-school  = "DSATM Bangalore · B.E. CSE · 2026"
-stack   = ["Node.js", "TypeScript", "Python", "FastAPI"]
-open_to = ["Backend Engineer", "SDE", "Platform Eng"]
-email   = "jayanthan1944@gmail.com"
-```
-
 </div>
+
+- Backend engineer in my final year at DSATM Bangalore 🎓
+- Building with Node.js, TypeScript, and Python — from conversational platforms to AI pipelines ⚙️🤖
+- Currently looking for my first role 🚀
+
+
+- 🎓 DSATM Bangalore · B.E. CSE · 2026
+- ⚙️ Node.js · TypeScript · Python · FastAPI
+- 💼 Backend Engineer · SDE · Platform Eng roles
+- 📧 jayanthan1944@gmail.com
 
 ---
 
 ### 🔨 Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ NEXUS AI — Conversational Support Platform</h3>
-      <p>Multi-threaded chat backend with JWT auth, RBAC, MongoDB aggregation pipelines, and structured logging. Built end-to-end with Node.js + TypeScript.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-      </p>
-      <a href="https://nexus-ai-beige.vercel.app/">🔗 Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 AI Engineering Tutor</h3>
-      <p>Adaptive ed-tech platform with LLM orchestration, prompt validation, and personalized quiz/tutoring flows. FastAPI backend + Firebase auth.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-      </p>
-      <a href="https://aiengineeringtutor.vercel.app/">🔗 Live Demo</a>
-    </td>
-  </tr>
-</table>
+**⚡ NEXUS AI — Conversational Support Platform**
+> Multi-threaded chat backend with JWT auth, RBAC, MongoDB aggregation pipelines, and structured logging.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 InvisiData — Offline PII Redaction</h3>
-      <p>Offline inference pipeline for speech-to-text, PII detection, and AES-GCM encryption. Achieved 85% precision and 78% F1 through model tuning.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AES--256-FF6B6B?style=flat"/>
-      </p>
-      <a href="https://github.com/jaycodes2/GuardianAI-VOSK">🔗 GitHub</a>
-    </td>
-  </tr>
-</table>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+&nbsp;[🔗 Live Demo](https://nexus-ai-beige.vercel.app/)
+
+---
+
+**🎓 AI Engineering Tutor**
+> Adaptive ed-tech platform with LLM orchestration, prompt validation, and personalized quiz/tutoring flows. FastAPI backend + Firebase auth.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+&nbsp;[🔗 Live Demo](https://aiengineeringtutor.vercel.app/)
+
+---
+
+**🔐 InvisiData — Offline PII Redaction**
+> Offline inference pipeline for speech-to-text, PII detection, and AES-GCM encryption. Achieved 85% precision and 78% F1 through model tuning.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![AES-256](https://img.shields.io/badge/AES--256-FF6B6B?style=flat)
+&nbsp;[🔗 GitHub](https://github.com/jaycodes2/GuardianAI-VOSK)
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
 </div>
 
 <br/>
 
 **Backend**
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/>
 </div>
 
 <br/>
 
 **Frontend**
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30"/>
 </div>
 
 <br/>
 
 **Databases**
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
 </div>
 
 <br/>
 
 **DevOps & Cloud**
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
   <img width="8"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="30"/>
   <img width="8"/>
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="30"/>
 </div>
 
 ---
